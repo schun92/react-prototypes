@@ -35,18 +35,3 @@ return (
 
 export default table;
 
-/* <tr>
-<th>Sarah</th>
-<th>Math</th>
-<th>95</th>
-</tr>
-<tr>
-<th>Jhon</th>
-<th>English</th>
-<th>100</th>
-</tr>
-<tr>
-<th>Daniel</th>
-<th>History</th>
-<th>99</th>
-</tr> */
