@@ -1,0 +1,9 @@
+.movie-info{
+    border: 1px solid black;
+    text-align: center;
+    font-family: monospace, Arial, Helvetica, sans-serif;
+}
+
+.page-header{
+    font-family: monospace, Arial, Helvetica, sans-serif;
+}
